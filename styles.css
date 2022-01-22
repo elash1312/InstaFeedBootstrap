@@ -9,6 +9,7 @@ header {
 header h1 {
     background: white;
     margin: 0;
+    float: left;
 }
 div.post {
     background: white;
