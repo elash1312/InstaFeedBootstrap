@@ -1,15 +1,13 @@
-body {
-    background: rgb(241, 239, 239);
+html {
+    background-color:#e3e3e3;
     margin: 0;
 }
-header {
-    background: white;
-    padding: 10px;
-    margin-right: 0;
+.navbar {
+    font-family: 'Lobster', cursive;
+    padding-left: 250px;
 }
-header h1 {
-    background: white;
-    margin: 0;
+.h1 {
+    padding-right: 10px;
 }
 div.post {
     background: white;
