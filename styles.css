@@ -9,6 +9,9 @@ html {
 .h1 {
     padding-right: 10px;
 }
+.fab {
+    padding-right: 5px;
+}
 div.post {
     background: white;
     width: 100%;
