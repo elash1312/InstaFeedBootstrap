@@ -12,6 +12,9 @@ html {
 .fab {
     padding-right: 5px;
 }
+.createNew {
+    font-family: Arial, Helvetica, sans-serif;
+}
 div.post {
     background: white;
     width: 100%;
