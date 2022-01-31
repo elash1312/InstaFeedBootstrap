@@ -6,6 +6,10 @@ html {
     font-family: 'Lobster', cursive;
     padding-left: 250px;
 }
+.dropdown-item {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
 .h1 {
     padding-right: 10px;
 }
@@ -17,6 +21,9 @@ html {
 }
 .fas {
     font-size: 16px;
+}
+.tab-pane {
+    background-color: rgb(245, 245, 245);
 }
 div.post {
     background: white;
