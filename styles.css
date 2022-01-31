@@ -15,6 +15,9 @@ html {
 .createNew {
     font-family: Arial, Helvetica, sans-serif;
 }
+.fas {
+    font-size: 16px;
+}
 div.post {
     background: white;
     width: 100%;
