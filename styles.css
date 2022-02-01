@@ -18,6 +18,7 @@ html {
 }
 .fas {
     text-align: center;
+    padding: 1px;
 }
 .createNew {
     font-family: Arial, Helvetica, sans-serif;
@@ -39,14 +40,6 @@ html {
 .tab-pane {
     background-color: rgb(212, 209, 209) !important;
 }
-/* .grid {
-    background-color: white;
-    color: gray;
-} */
-/* .nav-link {
-    background-color: white !important;
-    color: gray !important;
-} */
 div.post {
     background: white;
     width: 100%;
@@ -72,4 +65,15 @@ div.post h2, div.post p {
 div.container {
     width: 600px;
     margin: auto;
+}
+.modal-footer {
+    padding: 2px !important;
+}
+.modal-body {
+    padding: 8px !important;
+    padding-bottom: 0px !important;
+}
+.row {
+    padding-bottom: 0px !important;
+    margin-bottom: 0px;
 }
