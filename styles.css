@@ -16,28 +16,37 @@ html {
 .fab {
     padding-right: 5px;
 }
+.fas {
+    text-align: center;
+}
 .createNew {
     font-family: Arial, Helvetica, sans-serif;
 }
-.fas {
-    font-size: 16px;
-
-}
 .border {
     margin: 2px;
-    pading: 2px;
+    padding: 2px;
 }
 .tab-pane {
     background-color: rgb(245, 245, 245);
+}
+.col-4 {
+    background-color: rgb(212, 209, 209);
 }
 .active {
     background-color: gray !important;
     color: white !important;
 }
-.notActive {
+.tab-pane {
+    background-color: rgb(212, 209, 209) !important;
+}
+/* .grid {
     background-color: white;
     color: gray;
-}
+} */
+/* .nav-link {
+    background-color: white !important;
+    color: gray !important;
+} */
 div.post {
     background: white;
     width: 100%;
