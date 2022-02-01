@@ -40,6 +40,12 @@ html {
     background-color: gray !important;
     color: white !important;
 }
+.active .box {
+    color: white !important;
+}
+.box {
+    color: gray !important;
+}
 .tab-pane {
     background-color: rgb(212, 209, 209) !important;
 }
